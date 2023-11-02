@@ -8,10 +8,12 @@
     <title>AdminDashboard</title>
 </head>
 <body>
+    <x-layout>
         <x-header>
             <x-slot:title>Dashboard</x-slot:title>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia sunt, assumenda dignissimos doloremque
             reiciendis autem iusto saepe ut minima nesciunt?
-        </x-header>    
+        </x-header>
+    </x-layout>    
 </body>
 </html>
